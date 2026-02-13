@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+    int num;
+    printf("Por favor ingrese un numero entre 0-10:");
+    scanf("%d",&num);
+    if(num==1||num==2||num==3||num==5||num==7)
+    {
+        printf("Es primo");
+    }
+    else
+    {
+        printf("No es primo");
+    }
+    return 0;
+}
