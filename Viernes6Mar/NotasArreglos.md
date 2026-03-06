@@ -1,1 +1,1 @@
-##Arreglos: Conjunto de datos ddel mismo tipo.
+#Arreglos: Conjunto de datos ddel mismo tipo.
