@@ -9,7 +9,7 @@ int main()
     printf("la direccion de &temp1: %d\n", &temp1);
     printf("la direccion de &temp2: %d\n", &temp2);
     printf("la direccion de temp[24]: %d\n", temp);
-    printf("la direccion de &temp[24]: %d\n", &temp[24]);
+    printf("la direccion de &temp[23]: %d\n", &temp[23]);
     printf("la direccion de &dummy: %d\n", &dummy);
     return 0;
 }
